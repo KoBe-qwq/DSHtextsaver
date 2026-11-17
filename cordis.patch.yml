@@ -1,0 +1,5 @@
+# dsh-context-pack bundle patch: adds the context-pack Host plugin and its
+# Client half to a base-backed profile.
+- insert:
+    - id: context-pack
+      name: dsh-context-pack
